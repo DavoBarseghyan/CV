@@ -672,7 +672,6 @@ form textarea{
     }
     .row img{
        width: 285px;
-       margin-left: 30px;
     }
     div.row{
         width: 290px;
@@ -695,26 +694,24 @@ form textarea{
         line-height: 1;
     }
     .img1{
-        height: 315px;
+        height: 290px;
     }
     .img2{
-        height: 315px;
+        height: 290px;
     }
     .img3{
-        height: 315px;
+        height: 290px;
     }
     .img4{
-        height: 315px;
+        height: 290px;
     }
     .img5{
-        height: 315px;
+        height: 290px;
     }
     .img6{
-        height: 315px;
+        height: 290px;
     }
     .layer{
         width: 300px;
     }
 }
-
-  
