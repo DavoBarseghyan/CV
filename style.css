@@ -657,7 +657,7 @@ form textarea{
         height: 315px;
     }
 }
-@media (max-width: 500px){
+@media (max-width: 390px){
     .home{
        display: block;
     }
@@ -672,6 +672,7 @@ form textarea{
     }
     .row img{
        width: 285px;
+       margin-left: 30px;
     }
     div.row{
         width: 290px;
@@ -715,3 +716,5 @@ form textarea{
         width: 300px;
     }
 }
+
+  
