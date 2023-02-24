@@ -469,6 +469,7 @@ form textarea{
     }
     section{
         padding: 110px 3% 60px;
+        height: auto;
     }
     .end{
         padding: 15px 3%;
@@ -524,6 +525,9 @@ form textarea{
     .img6{
         height: 315px;
     }
+    section{
+        height: auto;
+    }
 }
 
 @media (max-width: 1030px){
@@ -538,6 +542,9 @@ form textarea{
         width: 100%;
         height: auto;
         min-width: 100%;
+    }
+    section{
+        height: auto;
     }
     .contact{
         grid-template-columns: 1fr;
@@ -564,6 +571,9 @@ form textarea{
 @media (max-width: 840px){
     #menu-icon{
         display: block;
+    }
+    section{
+        height: auto;
     }
     .navlist{
         position: absolute;
@@ -621,6 +631,9 @@ form textarea{
         width: 330px;
         height: 380px;
     }
+    section{
+        height: auto;
+    }
     .home-text .h10{
         width: 150px;
     }
@@ -647,6 +660,7 @@ form textarea{
     .home{
        display: block;
     }
+    
     .home img{
         margin-top: 20px;
         width: 250px;
@@ -655,8 +669,11 @@ form textarea{
     .home-text{
         grid-template-columns: 0.5fr;
     }
-    .row{
-       width: 250px;
+    .row img{
+       width: 285px;
+    }
+    div.row{
+        width: 290px;
     }
     .layer i{
         width: 30px;
@@ -692,5 +709,8 @@ form textarea{
     }
     .img6{
         height: 315px;
+    }
+    .layer{
+        width: 300px;
     }
 }
